@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Envios</string>
+    <string name="nombre_usu">Nombre</string>
+    <string name="apellido_usu">Apellido</string>
+    <string name="email">E-mail</string>
+    <string name="mensaje">Escribe un mensaje</string>
+    <string name="envio">Enviar</string>
+</resources>
